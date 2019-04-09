@@ -1,0 +1,51 @@
+.y {
+    height: 300px;
+    width: 300px;
+}
+.r {
+    height: 300px;
+    width: 300px;
+}
+.one {
+    display: none;
+}
+h1 {
+    text-align: center;
+}
+h3 {
+    text-align: center;
+}
+.two {
+    display: none;
+}
+body {
+    background-color: yellow;
+}
+.once {
+    display: flex;
+    justify-content: center;
+}
+.three {
+    display: none;
+}
+.five {
+    display: none;
+}
+.four {
+    display: none;
+}
+.nowwhat {
+    display: flex;
+    justify-content: center;
+}
+.nowwhat2 {
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+}
+.six {
+    display: none;
+}
+.margin {
+    margin: 10px;
+}
